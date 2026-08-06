@@ -66,17 +66,24 @@ def combine():
     
     # Fix Base64 padding (must be multiple of 4)
     print("⏳ Fixing Base64 padding...")
-    padding_needed = len(all_data) % 4
-    if padding_needed:
-        all_data += '=' * (4 - padding_needed)
-        print(f"   ⚠️  Added {4 - padding_needed} padding character(s)")
+    current_len = len(all_data)
+    remainder = current_len % 4
+    print(f"   Current length: {current_len}")
+    print(f"   Remainder when divided by 4: {remainder}")
     
-    print(f"   Final Base64 length: {len(all_data)} characters")
+    if remainder != 0:
+        padding_to_add = 4 - remainder
+        all_data += '=' * padding_to_add
+        print(f"   ⚠️  Added {padding_to_add} padding character(s)")
+        print(f"   New length: {len(all_data)}")
+    else:
+        print(f"   ✅ Length is already a multiple of 4")
     
     # Decode Base64
-    print("⏳ Decoding Base64...")
+    print("\n⏳ Decoding Base64...")
+    print(f"   Final length before decode: {len(all_data)}")
     try:
-        binary_data = base64.b64decode(all_data)
+        binary_data = base64.b64decode(all_data, validate=False)
     except Exception as e:
         print(f"\n❌ Failed to decode: {e}")
         print("\nThe files are too corrupted to recover.")
@@ -110,3 +117,4 @@ if __name__ == "__main__":
     result = combine()
     if not result:
         sys.exit(1)
+
