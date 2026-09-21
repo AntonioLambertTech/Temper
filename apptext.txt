@@ -1,0 +1,66 @@
+Target Communities (Not Meshtastic):
+
+Preppers/Survivalists (HUGE market)
+r/preppers (500K+ members)
+r/Survival (300K+ members)
+r/OffGrid (100K+ members)
+r/Bushcraft (500K+ members)
+Pitch: "Off-grid encrypted comms when cell towers go down"
+Outdoors/Adventure
+r/Hiking (2M+ members)
+r/CampingandHiking (1M+ members)
+r/Backpacking (1M+ members)
+r/WildernessBackpacking (200K+ members)
+Pitch: "Stay connected in backcountry without cell service"
+Ham Radio (Adjacent, not competing)
+r/amateurradio (200K+ members)
+r/HamRadio (50K+ members)
+Pitch: "Modern digital voice for LoRa mesh networks"
+Privacy/Security
+r/privacy (1M+ members)
+r/privacytoolsIO (300K+ members)
+r/encryption (50K+ members)
+Pitch: "Encrypted voice with no infrastructure or servers"
+First Responders
+r/Firefighting (100K+ members)
+r/Wildfire (20K+ members)
+r/SearchAndRescue (10K+ members)
+Pitch: "Backup comms when radio systems fail"
+Overlanding/Off-Road
+r/overlanding (300K+ members)
+r/4x4 (100K+ members)
+Pitch: "Group comms in remote areas without cell coverage"
+
+
+
+YouTube Strategy:
+
+Demo Videos
+"Off-Grid Voice Comms with LoRa Mesh Networks"
+"How to Set Up Phantom for Hiking/Camping"
+"Encrypted Communications Without Cell Towers"
+"Meshtastic Voice Communication Tutorial"
+Use Cases
+"Emergency Communications for Preppers"
+"Backcountry Group Comms Setup"
+"Wildfire Response Backup Communications"
+Technical Deep Dives
+"How Voice Works Over LoRa (Without Streaming Audio)"
+"On-Device AI for Mesh Networks"
+"Building Encrypted Mesh Networks"
+Target: 10 videos, 1,000-5,000 views each = 10K-50K impressions
+
+Twitter/X Strategy:
+
+Build in public
+Share user count milestones
+Post demo clips
+Share user testimonials
+Technical threads about how it works
+Engage communities
+Follow prepper/outdoor/privacy accounts
+Comment on relevant threads
+Share useful content (not just self-promo)
+Hashtags
+#LoRa #MeshNetworking #OffGrid #Prepper #Privacy #EncryptedComms
+Target: 500-1,000 followers, organic reach
