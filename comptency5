@@ -667,3 +667,79 @@ Direct
 Answer
 
 That’s right! In direct file access, files are conceptually divided into numbered logical records. In other words, the file pointer can be set to any particular record using the record number so that the user can read and write records in any particular order without having to step through the file.
+
+
+
+Question 23
+
+What is one example of a disk scheduling technique?
+SCAN
+Sequential access
+Relative path
+Absolute path
+
+Answer
+
+That’s right! There are three main disk scheduling techniques. The first-come, first-served technique processes disk requests in the order they arrive, without considering the heads' current positions. The shortest-seek-time-first technique moves the heads by the smallest necessary amount in order to access the data. In the third type, SCAN disk scheduling, the read/write heads move in toward the spindle, then out toward the platter edge, then back toward the spindle, etc.
+
+
+
+Question 24
+
+Which component is considered a major part of the von Neumann architecture?
+Instruction unit
+Display unit
+Graphics unit
+Control unit
+
+Answer
+
+That’s right! The von Neumann architecture includes a memory unit, an arithmetic/logic unit, an input unit, an output unit, and a control unit.
+
+
+
+Question 25
+
+What is a desktop PC?
+A mobile device that combines cellular communication capabilities with internet access, apps, and various media
+A computer placed directly inside another electronic device designed for a specific purpose
+A personal computer used at a single location with separate components, such as a monitor, keyboard, and mouse
+A large, centralized computer common from the 1950s to the 1980s and accessed through several terminals
+
+Answer
+
+That’s right! A desktop PC is a personal computer used at a single location with separate components, such as a monitor, keyboard, and mouse.
+
+
+
+Question 26
+
+What is one example of a high-level network application protocol?
+Lightning
+SMTP
+Thunderbolt
+HDMI
+
+Answer
+That’s right! A network protocol is a set of agreed-upon rules that govern how data is transmitted between devices. Several high-level protocols include Simple Mail Transfer Protocol (SMTP), File Transfer Protocol (FTP), Hypertext Transfer Protocol (HTTP), and Telnet.
+
+
+Question 27
+A computer's location on a network is given by either jenkins.develocorp.org or 192.158.1.38. What is the computer name in this scenario?
+jenkins
+Answer
+That’s right! The computer name comes before the first dot in the full hostname. The computer name for this computer is jenkins.
+
+
+
+Question 28
+What is the type of computer that typically consumes the greatest amount of power?
+Server
+Answer
+That’s right! A server is typically the most expensive and fastest type of computer in this list, and it consumes the most power.
+
+Question 29
+Which activity involves the use of a graphics processing unit (GPU)?
+Visualizing a three-dimensional molecule
+Answer
+That’s right! A graphics processing unit (GPU) is a special-purpose CPU chip whose hardware is designed for fast graphics and video processing. Because of its reliance on images, visualizing a three-dimensional molecule would benefit from a dedicated GPU.
