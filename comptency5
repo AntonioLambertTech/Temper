@@ -1,0 +1,669 @@
+Competacy 5: Identifies Basic Components of Operating Systems & Identifies Purpose and Commonalities Between File Systems
+•	access time: the time it takes for a system to retrieve data from memory or storage
+•	addressability: the capability of a system to access and manipulate each unit of data in memory individually
+•	arithmetic logic unit (ALU): the part of the CPU that performs arithmetic calculations and logical operations 
+•	block: a fixed-size unit of data stored and accessed on a disk or in memory
+•	bus width: the number of bits that can be transmitted simultaneously on a data bus, affecting data transfer speed
+•	cache memory: a small, fast type of volatile memory that stores frequently accessed data to speed up processing
+•	central processing unit (CPU): the main component of a computer that executes instructions and processes data 
+•	control unit: the part of the CPU that directs its operation, managing the execution of instructions and coordinating other components
+•	cylinder: a set of tracks located at the same position on multiple disk platters in a hard drive
+•	input unit: devices and components used to input data into a computer system, such as keyboards and mice
+•	instruction register: a register in the CPU that holds the current instruction being executed
+•	latency: the delay before a transfer of data begins following an instruction for its transfer
+•	motherboard: the main circuit board of a computer, housing the CPU, memory, and other essential components
+•	output unit: devices and components used to output data from a computer system, such as monitors and printers
+•	pipelining: a CPU performance enhancement technique where multiple instruction phases are overlapped to improve processing speed
+•	program counter: a register in the CPU that holds the address of the next instruction to be executed
+•	register: a small, fast storage location within the CPU used to hold temporary data and instructions
+•	sector: the smallest unit of data storage on a disk, typically part of a track
+•	track: a circular path on the surface of a disk where data is magnetically recorded and read
+•	transfer rate: the speed at which data can be transmitted from one device to another, usually measured in bits per second
+The CPU is the brain of the computer and is responsible for executing instructions and performing calculations, making it essential for overall system performance.
+RAM provides temporary storage for data that the CPU needs to access quickly, ensuring swift execution of tasks and smooth multitasking.
+Storage devices, such as hard drives and SSDs, store data permanently. They differ in speed, capacity, and reliability, impacting how quickly data is accessed and how much can be stored.
+The motherboard is the main circuit board that connects all components, providing communication pathways and electrical connections that enable them to work together seamlessly.
+Question 1
+What is the primary function of the CPU in a computer?
+Perform calculations and execute instructions
+Answer
+That's right! The CPU is responsible for processing data and running programs.
+
+Question 2\
+Which component is considered volatile memory?
+RAM
+Answer
+That's right! RAM is volatile memory, meaning it loses its data when power is turned off.
+
+•	Question 3
+•	
+•	Which storage device typically offers the fastest data access speed?
+•	Solid state drive (SSD)
+•	
+•	Answer
+•	
+•	That's right! SSDs offer faster data access speeds because they have no moving parts.
+•	
+•	Question 4
+•	
+•	Which component is directly responsible for executing the instructions of a computer program?
+•	CPU
+•	
+•	Answer
+•	
+•	That's right! The CPU executes the instructions of a computer program.
+•	
+•	Question 5
+•	
+•	Which memory component is an example of nonvolatile memory?
+•	ROM
+•	
+•	Answer
+•	
+•	That's right! ROM is nonvolatile memory.
+•	
+•	Question 6
+•	
+•	Which type of memory is used to temporarily store data that the CPU needs while performing tasks?
+•	RAM
+•	
+•	Answer
+•	
+•	That's right! RAM temporarily stores data for quick access by the CPU.
+•	
+•	Question 7
+•	
+•	Which term refers to the number of bits a computer can process at one time?
+•	Bus width
+•	
+•	Answer
+•	
+•	That's right! Bus width refers to the number of bits processed at one time.
+•	
+•	Question 8
+•	
+•	What is the primary function of the ALU in a CPU?
+•	Performing arithmetic and logical operations
+•	
+•	Answer
+•	
+•	That's right! The ALU is responsible for carrying out arithmetic and logical operations.
+•	
+•	Question 9
+•	
+•	What is the main function of the control unit within the CPU?
+•	Manage and coordinate the activities of the computer
+•	
+•	Answer
+•	
+•	That's right! The control unit directs the operation of the processor.
+•	
+•	Question 10
+Which type of storage device typically offers the largest capacity?
+HDD
+Answer
+That's right! HDDs often offer the largest storage capacities among consumer storage devices.
+
+•	access control policy: rules that determine who can access specific resources or data in a system and which actions they can perform
+•	bandwidth: the maximum amount of data that can be transmitted over a network connection in a given amount of time, usually measured in bits per second (bps)
+•	Bluetooth: a wireless technology that allows devices to communicate over short distances, typically used for connecting peripherals like headphones and keyboards
+•	broadband: a high-speed internet connection that is always on and faster than traditional dial-up access, such as DSL, cable, and fiber-optic
+•	bus topology: a network configuration where all devices are connected to a single central cable, or bus, through which data is transmitted
+•	cable modem: a device that provides internet access by connecting to a cable television line
+•	client/server model: a network architecture where clients (user devices) request services and resources from servers (centralized computers) that provide them
+•	computer network: a group of interconnected computers and devices that can share data and resources
+•	data transfer rate: the speed at which data is transmitted between devices over a network, usually measured in bits per second (bps)
+•	digital subscriber line (DSL): a technology that provides high-speed internet access through telephone lines
+•	domain name server: a server that translates domain names into IP addresses, enabling browsers to locate and load internet resources
+•	download: the process of transferring data from a remote server to a local device
+•	Ethernet: a common method of networking computers in a local area network (LAN), using wired connections and protocols to manage data transmission
+•	file server: a server that stores and manages files, making them accessible to computers on the same network
+•	firewall: a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules
+•	gateway: a device that connects different networks, allowing data to flow between them
+•	internet backbone: the main infrastructure of the internet, consisting of high-speed data transmission lines and major networks
+•	internet protocol (IP): a set of rules governing the format of data sent over the internet or other networks
+•	internet service provider (ISP): a company that provides individuals and organizations access to the internet
+•	interoperability: the ability of different systems, devices, or software to work together and exchange information seamlessly
+•	latency: the delay before data begins to transfer after an instruction for its transfer is given, often measured in milliseconds
+•	local-area network (LAN): a network that connects computers and devices within a limited area, such as a home, school, or office building
+•	metropolitan-area network (MAN): a network that spans a larger geographic area than a LAN, typically a city or a large campus
+•	MIME type: a standard that indicates the nature and format of a file, used to identify the type of content being sent over the internet
+•	node (host): any device, such as a computer or printer, connected to a network that can send, receive, or manage data
+•	Open Systems Interconnection (OSI) reference model: a conceptual framework that standardizes the functions of a telecommunication or computing system into seven abstraction layers to facilitate interoperability
+•	open system: a system that uses open standards and protocols, allowing it to interact with other systems and be modified or extended by third parties
+•	packet: a small unit of data transmitted over a network, containing both the data being sent and control information for routing
+•	packet switching: a method of data transmission where data is broken into packets and sent over various routes to its destination, where it is reassembled
+•	phone modem: a device that converts digital data from a computer into analog signals for transmission over telephone lines, and vice versa
+•	ping: a network utility that tests the reachability of a host on a network and measures the time it takes for a message to travel to the host and back
+•	port: a virtual point where network connections start and end, used to identify specific processes or services on a device
+•	proprietary system: a system that is privately owned and controlled, often requiring specific software or hardware to operate
+•	protocol: a set of rules that define how data is formatted, transmitted, and received over a network
+•	protocol stack: a set of network protocol layers that work together to handle data communication, often referred to as a protocol suite
+•	P2P model: a network model where each device can act as both a client and a server, sharing resources directly with other devices without a central server
+•	repeater: a device that receives a signal and retransmits it at a higher power level to extend the range of the network
+•	ring topology: a network configuration where each device is connected to two other devices, forming a circular data path
+•	router: a device that directs data between different networks, ensuring that data packets reach their  destinations
+•	star topology: a network configuration where all devices are connected to a central hub or switch, facilitating communication
+•	TCP/IP: a set of protocols that governs how data is transmitted over the internet, ensuring reliable communication
+•	traceroute: a network diagnostic tool that tracks the path data take from one device to another, showing each step along the way
+•	transmission control protocol (TCP): a core protocol of the internet that ensures that data is delivered accurately and in the  order
+•	upload: the process of sending data from a local device to a remote server or system
+•	user datagram protocol (UDP): a communication protocol that allows data to be sent without establishing a connection, providing faster but less reliable transmission
+•	web server: a computer system that hosts websites and delivers web pages to users over the internet
+•	wide-area network (WAN): a network that spans a large geographic area, connecting multiple smaller networks, such as LANs, typically using long-distance communication links
+•	wireless: a method of transmitting data without physical connections, using radio waves or other technologies
+•	wireless network: a network that uses wireless technology, such as Wi-Fi, to connect devices and enable communication without physical cables
+Networking connects computers and devices, enabling communication and resource sharing through local area networks (LANs), wide area networks (WANs), and the internet.
+Open systems and protocols promote interoperability and standardization, allowing different systems to communicate seamlessly. Examples include TCP/IP and HTTP.
+What is the primary function of a router in a network?
+Translate domain names to IP addresses
+Provide a secure connection to the internet
+Direct data traffic between different networks
+Store data
+
+Answer
+
+That's right! Routers manage traffic between different networks.
+
+
+
+Question 2
+
+Which protocol is primarily used for transmitting web pages over the internet?
+POP3
+HTTP
+FTP
+SMTP
+
+Answer
+
+That's right! HTTP is the protocol used for transmitting web pages.
+
+
+
+Question 3
+
+A company upgrades its network specifically to increase the amount of data that can be transferred quickly for video conferencing and large file transfers.
+Which aspect of its network is the company most likely improving?
+Bandwidth
+Topology
+Protocol
+Latency
+
+Answer
+
+That's right! Bandwidth refers to the data transfer rate, or the speed at which data moves across a network. Increasing bandwidth improves performance for activities like video conferencing and large file transfers.
+
+
+
+Question 4
+
+What is an open system?
+A system that restricts access to authorized users only
+A system that is only used within a private network
+A system that uses standardized protocols for interoperability
+A system that is privately owned and proprietary
+
+Answer
+
+That's right! Open systems use standardized protocols to ensure interoperability.
+
+
+
+Question 5
+
+Which device is responsible for directing data between different networks?
+Server
+Modem
+Router
+Switch
+
+Answer
+
+That's right! A router directs data between separate networks, ensuring that data packets reach their  destinations.
+
+
+
+Question 6
+
+Which protocol ensures reliable transmission of data over the internet?
+TCP
+ICMP
+UDP
+ARP
+
+Answer
+
+That's right! TCP ensures reliable data transmission with error-checking and retransmission mechanisms.
+
+
+
+Question 7
+
+Which type of network topology connects all devices to a central hub?
+Ring topology
+Bus topology
+Mesh topology
+Star topology
+
+Answer
+
+That's right! Star topology connects all devices to a central hub.
+
+
+
+Question 8
+
+What does the term "bandwidth" refer to in networking?
+The maximum rate of data transfer across a network path
+The number of devices that can connect to a network
+The latency between two network devices
+The physical distance between network devices
+
+Answer
+
+That's right! Bandwidth refers to the maximum rate of data transfer across a network path.
+
+
+
+Question 9
+
+Which layer of the OSI model is responsible for establishing, managing, and terminating connections between applications?
+The network layer
+The session layer
+The data link layer
+The physical layer
+
+Answer
+
+That's right! The session layer is responsible for establishing, managing, and terminating connections between applications.
+
+
+
+Question 10
+
+What is the purpose of a firewall in a network?
+To physically connect devices within a network
+To prevent unauthorized access to or from a private network
+To translate domain names into IP addresses
+To store frequently accessed data for quick retrieval
+
+Answer
+
+That's right! Firewalls are used to prevent unauthorized access to or from a private network.
+The CPU, RAM, and storage devices are fundamental to a computer's performance and functionality. The CPU executes instructions and performs calculations, acting as the central processing unit that drives all computing tasks. The RAM provides temporary, high-speed storage for data actively used by the CPU, enhancing task execution and multitasking efficiency. Storage devices such as hard drives and SSDs offer long-term data storage with varying speeds and capacities, impacting how quickly and how much data can be accessed.
+The motherboard integrates these components, serving as the main circuit board that connects the CPU, RAM, storage devices, and other parts. It facilitates communication between these components, ensuring they operate together seamlessly.
+Computers come in various forms to suit different needs. Desktops, laptops, tablets, and servers each serve distinct purposes, from personal and business tasks to large-scale data processing and application hosting. Server farms, or data centers, provide the infrastructure for storing and managing vast amounts of data, supporting cloud computing and enterprise operations.
+Specialized processors like multicore CPUs and GPUs enhance computing capabilities. Multicore processors allow for the simultaneous processing of multiple instructions, improving performance and multitasking. GPUs are optimized for rendering graphics and performing parallel computations, which boosts visual performance and handles complex calculations efficiently.
+Embedded computers and IoT expand the reach of computing technology. Embedded systems, integrated into appliances and vehicles, provide dedicated functionality and efficiency. The Internet of Things (IoT) connects everyday devices to the internet, enabling data collection and exchange that enhances automation and real-time monitoring across various applications.
+Altogether, the interaction between the CPU, RAM, and storage is crucial for a computer's basic operations, while the motherboard ensures that these components work together.
+Which component is considered a major part of the von Neumann architecture?
+Data unit
+Arithmetic/logic unit
+Instruction unit
+Program unit
+
+Answer
+
+That’s right! The von Neumann architecture includes a memory unit, an arithmetic/logic unit, an input unit, an output unit, and a control unit.
+
+
+Show Answer
+Question 2
+1/1 point (ungraded)
+What is true about read-only memory (ROM)?
+It is designed exclusively for embedded computer systems.
+It is used to store instructions that the computer needs to start up.
+It is only available for systems that have cloud storage.
+It is used exclusively on magnetic disks and solid-state devices.
+
+Answer
+
+That’s right! ROM is a nonvolatile memory. The bit configuration is set either when the ROM is constructed or when the computer is assembled. The contents are permanent and cannot be altered by a stored operation, and it retains its bit configuration when the power is turned off. It is used to store instructions that the computer needs to start up as well as some very frequently used software.
+
+
+Show Answer
+Question 3
+1/1 point (ungraded)
+How is a ring topology set up in a local area network (LAN)?
+All nodes are connected to a central node through which messages are sent.
+All nodes are connected to exactly two other nodes in a circular data path.
+All nodes are connected to a single cable through which data is transmitted.
+All nodes in the network are connected directly with all other nodes.
+
+Answer
+
+That’s right! If a LAN uses a ring topology, then all nodes are connected to exactly two other nodes in a circular data path.
+
+
+Show Answer
+Question 4
+1/1 point (ungraded)
+The location of a computer is given by either falcon.csc.computersoft.org or 205.39.155.18.
+
+Which part of this information is known as the hostname?
+falcon
+falcon.csc.computersoft.org
+205.39.155.18
+csc.computersoft.org
+
+Answer
+
+That’s right! A hostname is a unique identification specifying a particular computer on the internet. The hostname includes both the domain name and the computer name. The hostname for this computer is falcon.csc.computersoft.org.
+
+
+Show Answer
+Question 5
+1/1 point (ungraded)
+What is the name for a computer placed directly inside another electronic device designed for a specific purpose?
+Desktop PC
+Embedded computer
+Smartphone
+Mainframe
+
+Answer
+
+That’s right! An embedded computer is a computer placed directly inside another electronic device designed for a specific purpose.
+What is the name of the variable type used to represent a real number?
+Float
+String
+Character
+Integer
+
+Answer
+
+That’s right! The float data type is used to represent decimal numbers with fractional parts such as 3.14 or –6.18.
+
+
+
+Question 2
+
+What is one value that is stored in a variable that has a float data type?
+'1'
+"-5.9"
+true
+1.25
+
+Answer
+
+That’s right! The float data type is used to represent decimal numbers with fractional parts. This includes values such as 1.25.
+
+
+
+Question 3
+
+What is one of the standard rules when creating a variable name?
+The name must have a letter at the beginning.
+The name must start with a lowercase letter.
+The name must start with an uppercase letter.
+The name must start with the type designation.
+
+Answer
+
+That’s right! The universal standards for variable names include that the variable name must be one word (no spaces), must start with a letter, and should have an appropriate meaning given the context of the variable.
+
+
+
+Question 4
+
+Which data structure is it in which the item removed is the one that has been in the longest time?
+Queue
+Array
+Stack
+List
+
+Answer
+
+That’s right! A queue is an ordered group of items that acts like a group of people standing in line. Objects are added to one end and removed from the other. Therefore, the item removed is the one that has been in the longest time.
+
+
+
+Question 5
+
+What is the name of a parameter that prevents a function from changing the content of an argument?
+Variable
+Constant
+Reference
+Value
+
+Answer
+
+That’s right! A value parameter is passed as a copy of the argument. Therefore, if the function or subprogram changes the value, that change is not reflected in the original variable that was passed.
+
+
+
+Question 6
+
+What is one example of a language that uses the declarative paradigm?
+Java
+Python
+Scheme
+SIMULA
+
+Answer
+
+That’s right! The declarative programming paradigm is a model in which the results are described, but the steps to accomplish the results are not stated. There are two basic models within this paradigm, functional and logic. Scheme is an example of a declarative language.
+
+
+
+Question 7
+
+A software development team is working on a desktop application for recording and mastering music tracks. Because of the complicated nature of this application, they decide to follow the software development lifecycle (SDLC) process. Which step will the team expect to go through as part of this process?
+Code the program
+Analyze and specify
+Ask questions
+Look for familiar things
+
+Answer
+
+That’s right! The SDLC model has seven structured steps: understand the problem, plan the logic, code the program, use software (a compiler or an interpreter) to translate the program into machine language, test the program, put the program into production, and maintain the program.
+
+
+
+Question 8
+
+A programmer has been asked to lead a project that uses artificial intelligence to search for patterns in Wi-Fi signals to improve efficiency and range. The programmer will use the software development lifecycle (SDLC) as a model for design and implementation. Which step is the programmer in when using flowcharts and pseudocode to help describe the intended steps for the program?
+Translate the code
+Maintain the program
+Understand the problem
+Plan the logic
+
+Answer
+
+That’s right! Planning the logic is the second of seven steps of the SDLC. In this step, the programmer develops all necessary algorithms (figuring out what sequence of events will lead from the available input to the desired output) often using either flowcharts or pseudocode.
+
+
+
+Question 9
+
+A video game company is working on a major new video game. The company follows the software development lifecycle (SDLC) model and just completed the step, "put the program into production." Which step is next in the SDLC?
+Plan the logic
+Translate the code
+Test the program
+Maintain the program
+
+Answer
+
+That’s right! The software development lifecycle (SDLC) model has seven structured steps: understand the problem, plan the logic, code the program, use software (a compiler or an interpreter) to translate the program into machine language, test the program, put the program into production, and maintain the program.
+
+
+
+Question 10
+
+What does a technology company need to commit to if adopting the Institute of Electrical and Electronics Engineers (IEEE) Code of Ethics?
+Maintain and improve technical competence
+Accept and provide appropriate professional review
+Respect privacy and honor confidentiality
+Ensure that a single person is awarded a patent for any new invention
+
+Answer
+
+That’s right! IEEE's Code of Ethics deals mostly with issues related to hardware. It has ten different commitments, including requiring companies and individuals to maintain and improve technical competence.
+
+
+
+Question 11
+
+Which situation represents a violation of the Codes of Ethics for both the Association of Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE)?
+The board of directors passes a policy supporting greater racial diversity in company leadership.
+A factory immediately stops production when an environmental impact is discovered.
+An executive eliminates all professional development opportunities for employees.
+A company makes employees sign the Code of Ethics annually as a condition of continued employment.
+
+Answer
+
+That’s right! A company is ethically bound to work for the good of its employees, specifically including their professional development. To eliminate all such opportunities is an ethical problem. This is prohibited by both the ACM and IEEE Codes of Ethics.
+
+
+
+Question 12
+
+A criminal obtains personal information, including a social security number, to file a tax return for somebody. What is this an example of?
+Cyberbullying
+Trafficking
+Identify theft
+Data breach
+
+Answer
+
+That’s right! This scenario is an example of identity theft, which is a theft of information used to identify somebody, such as a social security number.
+
+
+
+Question 13
+
+Which characteristic describes the binary algorithm?
+It places the smallest value at the start.
+It compares elements that are adjacent.
+It keeps resetting the middle index.
+It can run on sorted or unsorted data.
+
+Answer
+
+That’s right! The binary search algorithm finds the position of a search value by repeatedly dividing the search interval in half. Because of this, it keeps resetting the middle index.
+
+
+
+Question 14
+
+A particular algorithm sorts data by building the final sorted list one item at a time, placing each new item into its  position. Which word is associated with this algorithm?
+Insertion sort
+Binary sort
+Selection sort
+Bubble sort
+
+Answer
+
+That’s right! The insertion sort algorithm is one of the three basic sorting algorithms. It sorts data by building the final sorted list one item at a time, placing each new item into its  position.
+
+
+
+Question 15
+
+Which coding construct has a predictable number of iterations?
+Conditional loop
+Event-controlled loop
+Count-controlled loop
+While loop
+
+Answer
+
+That’s right! A count-controlled loop sets an initial loop control variable, repeats a process as long as the variable is less than a certain value, and increments the variable each time. Therefore, a count-controlled loop has a predictable number of iterations.
+
+
+
+Question 16
+
+A computer programmer needs to find the result of subtracting the value d from the value f. What is the pseudocode that will accomplish this?
+subtract d from f
+set b = f - d
+sub(f, d)
+f - d
+
+Answer
+
+That’s right! The pseudocode for subtraction is -. Therefore, the  way to indicate d subtracted from f is f - d.
+
+
+
+Question 17
+
+What is the pseudocode that calculates the average of val_1 and val_2?
+if (val_1 < val_2) Set temp to val_1 else Set temp to val_2
+Set temp to val_1 + val_2 Set n to 2 Set x to temp / n
+Set temp to val_1 Set val_1 to val_2 Set val_2 to temp
+if (val_1 < val_2) Set temp to val_1 else Set temp to val_2
+
+Answer
+
+That’s right! The first line sets temp to the sum of val_1 and val_2, and the third line divides this sum by n, which is 2. Therefore, temp becomes the average of val_1 and val_2.
+
+
+
+Question 18
+
+What is the name of the resource management technique in which processes and memory are both divided into separate, fixed-size pieces?
+Paged
+Single contiguous
+Round-robin
+Partition
+
+Answer
+
+That’s right! Paged memory management is a method that divides memory into fixed-size frames and processes into fixed-size pages. When a program is to be executed, the pages of the process are loaded into frames distributed throughout memory. Thus, the pages of a process may be scattered around, out of order, and even mixed among the pages of other processes.
+
+
+
+Question 19
+
+What is the ideal situation for the first fit allocation method in partition memory management?
+Single partitions
+Fixed partitions
+Multiple partitions
+Dynamic partitions
+
+Answer
+
+That’s right! Partition memory management is a method that divides memory into segments or partitions, each of which can hold a different process. The first fit method allocates a program to the first partition big enough to hold it, whereas the best fit method allocates the program to the smallest partition big enough to hold it. Both of these methods work best with fixed partitions.
+
+
+
+Question 20
+
+Which CPU scheduling method is being used if a running process can be interrupted and replaced by another process prior to termination?
+Preemptive
+First come, first served
+Shortest job next
+Round-robin
+
+Answer
+
+That’s right! In preemptive CPU scheduling, decisions are made when a process moves from the running state to the ready state or from the waiting state to the ready state. In this case, a running process can be interrupted and replaced by another process before termination, a decision made by the operating system.
+
+
+
+Question 21
+
+Which operation is common to most file systems?
+Decrypt
+Increment
+Decode
+Append
+
+Answer
+
+That’s right! There are several operations that are common to most file systems. They include the ability to create and delete a file, open and close a file, read from and write to a file, append data to the end of a file, truncate a file, reposition the file pointer, and to either rename or copy a file.
+
+
+
+Question 22
+
+Which term indicates a file access technique in which files are conceptually divided into numbered logical records?
+Shortest seek time
+SCAN
+Sequential
+Direct
+
+Answer
+
+That’s right! In direct file access, files are conceptually divided into numbered logical records. In other words, the file pointer can be set to any particular record using the record number so that the user can read and write records in any particular order without having to step through the file.
